@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/007/760/non_2x/abstract-summer-and-spring-trendy-artistic-background-template-vector.jpg")
+  }
+  h1{
+    font-family: cursive;
+  ;
+    text-align:center
+  }
+  
+  .inputs{
+    text-align:center;
+  }
+  .canvas_div{
+    text-align:center;
+  }
+  
+  canvas{
+    background-color:white;
+  }
+  
+  .images{
+    text-align: center;
+    background-color: lightblue;
+  }
+  .inspiring_quote_number_1{
+    width: 60x;
+    height: 100px;
+  }
+  
+  .inspiring_quote_number_2{
+    width: 200px;
+    height: 100px;
+  }
